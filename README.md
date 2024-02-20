@@ -1,2 +1,0 @@
-# ISYS_350_SFSU
-ISYS 350 HW Solutions
